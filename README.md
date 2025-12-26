@@ -20,3 +20,6 @@ A customer scoring system using Recency + Monetary analysis for an e-commerce da
 - BigQuery SQL
 - Problem-solving when data contradicts assumptions
 - Data visualization with Tableau
+
+# Customer Segmentation & Value Analysis
+[Customer Segmentation Analysis]!(visualisation/Customer_Segementation_Analysis.png)
