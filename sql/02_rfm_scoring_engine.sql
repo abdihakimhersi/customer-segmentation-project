@@ -4,7 +4,7 @@ monetary_score,
 recency_score*0.65 + monetary_score*0.35 as final_score
 FROM(
 SELECT
-((customer_metrics.total_spent - 9.59)/(13664.08-9.59))*100 as monetary_score,
+PERCENT_RANK() OVER(ORDER BY total_spent) * 100 as monetary_score,
 100 - (((customer_metrics.recency_days - 0)/(713-0))*100) as recency_score,
 FROM (
 SELECT
