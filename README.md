@@ -22,4 +22,4 @@ A customer scoring system using Recency + Monetary analysis for an e-commerce da
 - Data visualization with Tableau
 
 ## Customer Segmentation & Value Analysis Dashboard
-[Customer Segmentation Analysis]!(/visualisation/Customer_Segmentation_Analysis.png)
+[Customer Segmentation Analysis]!([/visualisation/Customer_Segmentation_Analysis.png](https://github.com/abdihakimhersi/customer-segmentation-project/blob/main/visualisation/Customer_Segmentation_Analysis.png?raw=true))
