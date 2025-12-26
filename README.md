@@ -1,3 +1,7 @@
+![Discovery](https://img.shields.io/badge/Discovery-No_Repeat_Customers-yellow)
+![Solution](https://img.shields.io/badge/Solution-Percentile_Ranking-green)
+![Scoring](https://img.shields.io/badge/Scoring-65%25_Recency%2C_35%25_Monetary-blue)
+![Results](https://img.shields.io/badge/Results-53%25_High_Value-orange)
 # Customer Segmentation Project
 E-commerce customer value analysis with Recency + Monetary scoring model
 
