@@ -1,4 +1,4 @@
-# customer-segmentation-project
+# Customer Segmentation Project
 E-commerce customer value analysis with Recency + Monetary scoring model
 
 # Project Summary
